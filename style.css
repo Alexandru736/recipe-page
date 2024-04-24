@@ -83,6 +83,8 @@ hr.divider {
 
 .preparation-section {
     color: var(--clr-dark-raspberry);
+    font-size: 19px;
+    font-weight: var(--bolt-font-weight);
 }
 
 .preparation-time {
